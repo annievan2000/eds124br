@@ -2,6 +2,13 @@
 
 ### Projects
 
+# Assignment #1
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4Pz62FRO8Z4/0.jpg)](https://www.youtube.com/watch?v=4Pz62FRO8Z4)
 
+
+# Assignment #2
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OdbjW8mn4Jo/0.jpg)](https://www.youtube.com/watch?v=OdbjW8mn4Jo)
+
+
+# Assignment #3
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-FLNuwpSMvM/0.jpg)](https://www.youtube.com/watch?v=-FLNuwpSMvM)
