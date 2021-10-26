@@ -18,3 +18,6 @@
 
 # Assignment #4 Monkey Program
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9xfgNsPDbT4/0.jpg)](https://www.youtube.com/watch?v=9xfgNsPDbT4)
+
+# Assignment #4 Variables
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eHEQ53aLnQE/0.jpg)](https://www.youtube.com/watch?v=eHEQ53aLnQE)
