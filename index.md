@@ -25,5 +25,8 @@
 # Assignment #7 Soccer
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mb1tdcdGeU0/0.jpg)](https://www.youtube.com/watch?v=Mb1tdcdGeU0)
 
-# Assignment #7 Bulls Eye
+# Assignment #8 Bulls Eye
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bhjUHjdfFk4/0.jpg)](https://www.youtube.com/watch?v=bhjUHjdfFk4)
+
+# Assignment #9 Penguin - Nested If/Else
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2mZUF4r-XQc/0.jpg)](https://www.youtube.com/watch?v=2mZUF4r-XQc)
