@@ -31,5 +31,11 @@
 # Assignment #9 Penguin - Nested If/Else
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2mZUF4r-XQc/0.jpg)](https://www.youtube.com/watch?v=2mZUF4r-XQc)
 
-# Assignment #10 Countries
+# Assignment #10 Draw A Flower
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C3qIs5yFPGE/0.jpg)](https://www.youtube.com/watch?v=C3qIs5yFPGE)
+
+# Assignment #11 Find the Treasure
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S8pSXDJBTxM/0.jpg)](https://www.youtube.com/watch?v=S8pSXDJBTxM)
+
+# Assignment #12 Countries
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_hS76Dr9YHc/0.jpg)](https://www.youtube.com/watch?v=_hS76Dr9YHc)
